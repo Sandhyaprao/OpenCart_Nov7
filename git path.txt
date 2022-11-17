@@ -1,0 +1,3 @@
+C:\Users\tests\eclipse-workspace\OpenCart_Nov7
+Git path
+C:\Program Files\Git

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-17T08:55:52 IST" name="OpenCartSuite" finished-at="2022-11-17T08:56:13 IST" duration-ms="21629">
+    <groups>
+    </groups>
+    <test started-at="2022-11-17T08:55:52 IST" name="OpenCartTest" finished-at="2022-11-17T08:56:13 IST" duration-ms="21629">
+      <class name="TestCases.TC001_AccountRegistrationTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TC001_AccountRegistrationTest@dd8ba08]" started-at="2022-11-17T08:55:52 IST" name="setup" finished-at="2022-11-17T08:55:58 IST" duration-ms="6257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_account_Registration()[pri:0, instance:TestCases.TC001_AccountRegistrationTest@dd8ba08]" started-at="2022-11-17T08:55:58 IST" name="test_account_Registration" finished-at="2022-11-17T08:56:07 IST" duration-ms="8938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_account_Registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC001_AccountRegistrationTest@dd8ba08]" started-at="2022-11-17T08:56:07 IST" name="tearDown" finished-at="2022-11-17T08:56:13 IST" duration-ms="6366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC001_AccountRegistrationTest -->
+    </test> <!-- OpenCartTest -->
+  </suite> <!-- OpenCartSuite -->
+</testng-results>
